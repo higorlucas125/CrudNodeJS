@@ -1,0 +1,60 @@
+body{
+    font-family: 'Montserrat', sans-serif
+}
+
+.row{
+    
+    padding: 0.5px;
+    margin:0px;
+    background-color:rgb(240, 195, 152);
+}
+#borda{
+    background-color: rgb(233, 233, 233);
+    /*border-right:2px solid rgb(97, 95, 95) ;*/
+    
+}
+#logo {   
+    width: 400px;
+} 
+#logo-baixo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+
+#ebook{
+    background-color: rgb(255, 255, 255);
+}
+#titulo{
+    font-weight:Montserrat;
+    font-size:200%;
+    text-align: center;    
+    
+}
+#subTitulo{
+    font-weight: bold;
+    font-size: 120%;
+    text-align: center;
+}
+#ebook-imagem{
+    width: 90%;
+}
+#seta{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
+#parte-de-baixo{
+    background-image:linear-gradient(to right, rgb(164, 255, 187), rgb(1, 250, 34));
+}
+#parteDeBaixoDiv{
+    height: 25
+    
+    0px;
+}
+#texto-centralizar{
+    padding-top: 50px;
+    text-align: center;
+}
